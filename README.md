@@ -31,8 +31,9 @@ Créer un agent intelligent capable de contrôler un bras robotique dans Unity p
 - Aucun comportement d’empilage appris malgré entraînement
 
 ##  Captures d'écran
-> *(Ajouter ici une image de l’environnement dans Unity)*
 
+
+![root mobile](https://github.com/user-attachments/assets/b21e98f3-e151-4554-a946-09ddd5c3ce73)
 
 ##  Prochaines étapes
 - Corriger les observations
